@@ -1,4 +1,4 @@
-module go_domain
+module github.com/TitoCarpio/go_domain
 
 go 1.23.2
 
